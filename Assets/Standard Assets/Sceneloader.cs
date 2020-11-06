@@ -16,4 +16,9 @@ public class Sceneloader : MonoBehaviour
     {
         SceneManager.LoadScene("scene_2");
     }
+
+    public void LoadPrototype2()
+    {
+        SceneManager.LoadScene("Prototype_2");
+    }
 }
